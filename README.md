@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student at Lehman College.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 👨‍💻 All of my projects are available at [onandiskeen.github.io](onandiskeen.github.io)
+- 👨‍💻 All of my projects are available at [onandiskeen.github.io](https://onandiskeen.github.io/)
 
 - 📫 How to reach me **onandiskeen@gmail.com**
 
